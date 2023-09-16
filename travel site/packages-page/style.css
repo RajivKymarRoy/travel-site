@@ -1,0 +1,74 @@
+/* FIRST PART */
+.banner{
+    background-image: url("images/tripping.jpg");
+    height:450px;
+    background-size: cover;
+    border-radius:25px;
+}
+
+
+/* ALONE & COUPLES PART */
+.banner1{
+    width:100%;
+    background-image: url("images/banner1.jpg");
+    height:300px;
+    background-attachment: fixed;
+    background-position: center;  
+}
+
+.first-div-h1{
+    background-color: blueviolet;
+}
+
+
+/* FAMILIES PART */
+.banner2{
+    width:100%;
+    background-image: url("images/banner2.jpg");
+    height:300px;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.second-div-h1{
+    background-color: blueviolet;
+}
+
+
+/* SPECIAL DAYS PART */
+.banner3{
+    width:100%;
+    background-image: url("images/banner3.jpg");
+    height:300px;
+    background-attachment: fixed;
+    background-position: center;    
+}
+
+.third-div-h1{
+    background-color: blueviolet;
+}
+
+
+/* FOOTER PART */
+.footer {
+    background-color: black;
+}
+
+.details {
+    text-align: center;
+}
+
+.details h3 {
+    color: rgb(241, 203, 97);
+}
+
+
+.icons {
+    text-align: center;
+}
+
+.icons i {
+    color: rgb(92, 92, 245);
+    margin: 10px;
+    font-size: 30px;
+}

@@ -1,0 +1,32 @@
+/* BANNER PART */
+.banner{
+    background-image: url("images/peace.jpg");
+    background-position: center;
+    height:400px;
+    background-attachment: fixed;
+}
+
+
+/* FOOTER PART */
+.footer {
+    background-color: black;
+}
+
+.details {
+    text-align: center;
+}
+
+.details h3 {
+    color: rgb(241, 203, 97);
+}
+
+
+.icons {
+    text-align: center;
+}
+
+.icons i {
+    color: rgb(92, 92, 245);
+    margin: 10px;
+    font-size: 30px;
+}

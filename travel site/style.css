@@ -1,0 +1,88 @@
+/* CONTAINER LEFT&RIGHT PART */
+.fulldivsmall{
+    background-color: aqua;
+    border-radius:25px;
+}
+
+
+
+.leftdiv1{
+    background-color: aqua;
+    height:400px;
+    border-radius:25px;
+    background-image: url("images/leftdiv1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.rightdiv1{
+    background-color: rgb(255, 166, 0);
+    height:400px;
+    border-radius:25px;
+}
+
+.leftdiv2{
+    background-color: aqua;
+    height:400px;
+    border-radius:25px;
+    background-image: url("images/leftdiv2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.rightdiv2{
+    background-color: rgb(255, 166, 0);
+    height:400px;
+    border-radius:25px;
+}
+
+.leftdiv3{
+    background-color: aqua;
+    height:400px;
+    border-radius:25px;
+    background-image: url("images/leftdiv3.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.rightdiv3{
+    background-color: rgb(255, 166, 0);
+    height:400px;
+    border-radius:25px;
+}
+
+.fulldiv{
+    background-color: rgb(255, 166, 0);
+    height:400px;
+    border-radius:25px;
+    background-image: url("images/enjoy.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+/* FOOTER PART */
+.footer {
+    background-color: black;
+}
+
+.details {
+    text-align: center;
+}
+
+.details h3{
+    color:rgb(241, 203, 97);
+}
+
+
+.icons {
+    text-align: center;
+}
+
+.icons i{
+    color:rgb(92, 92, 245);
+    margin:10px;
+    font-size: 30px;
+}
